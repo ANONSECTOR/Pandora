@@ -10,7 +10,7 @@ Edit "grep -o 'sometexthere' ; echo $?" to fix the problem
 Find usernames across over 75 social networks
 This is useful if you are running an investigation to determine the usage of the same username on different social networks.
 
-![userrecon](./userrecon.png)
+![pandora](./pandora.png)
 
 ## TODO:
 
@@ -47,10 +47,10 @@ This is useful if you are running an investigation to determine the usage of the
 
 $ sudo apt update && apt upgrade
 
-$ git clone https://github.com/wishihab/userrecon.git
+$ git clone https://github.com/ANONSECTOR/pandora.git
 
-$ cd userrecon
+$ cd pandora
 
-$ ./userrecon.sh
+$ ./pandora.sh
 
 ### This tool has been tested in many os like parrot os , kali linux ,ubuntu os all of them works perfectly fine  !
