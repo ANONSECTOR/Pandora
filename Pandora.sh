@@ -1,7 +1,7 @@
 #! / bin / bash
 # PANDORA v1.0
 # Autor: @Anonsector
-# https://github.com/ANONSECTOR/usercheck
+# https://github.com/ANONSECTOR/pandora
 
 trap 'printf "\ n"; parcial; saída 1' 2
 
